@@ -1,0 +1,8 @@
+deepface
+insightface
+keras
+scikit-learn
+matplotlib
+opencv-python
+numpy
+pandas
